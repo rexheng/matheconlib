@@ -1,0 +1,14 @@
+# Review routing: these entries auto-request reviewers for PRs touching each
+# area. They do not block merges (code-owner reviews are not required).
+
+* @Ruizsolveall
+
+# Core layers
+/MathEconLib/Mechanism/     @Ruizsolveall @jjaassoonn
+/MathEconLib/BidderProblem/ @Ruizsolveall @jjaassoonn
+/MathEconLib/GameTheory/    @Ruizsolveall @jjaassoonn
+/MathEconLib/Auction/       @Ruizsolveall @jjaassoonn
+
+# Single-parameter layer
+/MathEconLib/SingleParameter/     @bocowgill @Ruizsolveall
+/MathEconLibTest/SingleParameter/ @bocowgill @Ruizsolveall

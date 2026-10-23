@@ -1,0 +1,10 @@
+/.lake
+MathEconLib/Playground/*
+documents/
+logs/
+simulations/output/
+
+.DS_Store
+
+reports/
+.lake/
