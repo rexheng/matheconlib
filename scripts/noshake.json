@@ -1,0 +1,12 @@
+{"ignore":
+ {"MathEconLib.Statistics.OrderStatistics":
+  ["MathEconLib.ForMathlib.AbsolutelyContinuous", "Mathlib"],
+  "MathEconLib.ReducedForm.Basic":
+  ["Mathlib.MeasureTheory.Integral.DivergenceTheorem"],
+  "MathEconLib.Playground.Probability": ["Mathlib"],
+  "MathEconLib.ForMathlib.AbsolutelyContinuous":
+  ["Mathlib.MeasureTheory.Measure.Decomposition.IntegralRNDeriv",
+   "Mathlib.MeasureTheory.Measure.RegularityCompacts",
+   "Mathlib.Topology.EMetricSpace.Paracompact",
+   "Mathlib.Topology.UniformSpace.Uniformizable"],
+  "MathEconLib.Auction.Basic": ["Mathlib.Probability.Notation"]}}

@@ -1,0 +1,12 @@
+/.lake
+MathEconLib/Playground/*
+documents/
+logs/
+simulations/output/
+__pycache__/
+*.pyc
+
+.DS_Store
+
+reports/
+.lake/
